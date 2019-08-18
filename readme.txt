@@ -27,7 +27,7 @@ post
 	
 
 news [agency_id] [category] [region] [dd/mm/yyyy]
-	news [TAC] [pol] [eu] [2019/08/10]
+	news [TAC] [pol] [eu] [08/10/2019]
 
 	[agency_id] should be an id from the directory service.	
 	[category] should be one of the following :pol, trivia, tech, art
