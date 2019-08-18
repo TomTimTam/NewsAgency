@@ -1,10 +1,17 @@
 Client API instructions:
 Run the client using python3 client.py.
 
+Author login is: Username - ll14tac, Password - 123testing123
+
+note: This couldn't be tested with the directory service as the python anywhere hosting has expired for the directory.
+	The expected data was guessed from the specification sheet.
+
 Example inputs for each user command.
 
-login 'url'
+login 'url'	
 	login http://ll14tac.pythonanywhere.com
+
+	Caution: Do NOT end your URL with '/'
 
 logout
 	logout
@@ -29,7 +36,7 @@ news [agency_id] [category] [region] [yyyy/mm/dd]
 	
 	Caution : news [] [] [] [] will get every story from every service.
 
-dlete 'story_key'
+delete 'story_key'
 	delete 1
 	
 	will delete story with id 1 from from the logged in service.
