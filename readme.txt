@@ -4,7 +4,8 @@ Run the client using python3 client.py.
 Author login is: Username - ll14tac, Password - 123testing123
 
 note: This couldn't be tested with the directory service as the python anywhere hosting has expired for the directory.
-	The expected data was guessed from the specification sheet.
+	The expected data was guessed from the specification sheet. To re-enable the directory service head to the
+	configurations page on pythonanywhere and press reload at the top.
 
 Example inputs for each user command.
 
