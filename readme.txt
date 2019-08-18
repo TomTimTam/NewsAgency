@@ -26,7 +26,7 @@ post
 	logged in service.
 	
 
-news [agency_id] [category] [region] [yyyy/mm/dd]
+news [agency_id] [category] [region] [dd/mm/yyyy]
 	news [TAC] [pol] [eu] [2019/08/10]
 
 	[agency_id] should be an id from the directory service.	
